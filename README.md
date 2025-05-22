@@ -1,6 +1,8 @@
 Diwali-Sales-Analysis
+
 Overview
-This project explores key indicators of Diwali sales to extract valuable insights into business performance. The analysis is conducted using the Python programming language for data extraction and visualizations. The raw data for this analysis is sourced from [Fast Track Data Analyst Boot Camp].
+
+This project key indicators of Diwali sales to extract valuable insights into business performance. The analysis is conducted using the Python programming language for data extraction and visualizations. The raw data for this analysis is sourced from [Fast Track Data Analyst Boot Camp].
 
 Project Objectives
 In the context of our Diwali sales data analysis, our goals are to identify and understand key patterns and trends in customer behavior. This enables us to optimize marketing and sales strategies by addressing the following questions:
